@@ -1,17 +1,13 @@
-.box{
-  
-}
-
 .box .item {
   display: inline-block;
   margin: 5px;
 }
 
 .box .item iframe {
-  width: 42vw;
-  max-width: 500px;
-  height: 30vw;
-  max-height: 350px;
+  width: 45vw;
+  max-width: 810px;
+  height: 25vw;
+  max-height: 450px;
   margin: 0px;
   padding: 0px;
 }
