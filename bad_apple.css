@@ -1,5 +1,17 @@
 .box{
-    display: grid;
-    gap: 10px;
-    grid-template-columns: 1fr 1fr;
+  
+}
+
+.box .item {
+  display: inline-block;
+  margin: 5px;
+}
+
+.box .item iframe {
+  width: 42vw;
+  max-width: 500px;
+  height: 30vw;
+  max-height: 350px;
+  margin: 0px;
+  padding: 0px;
 }
